@@ -8,4 +8,3 @@ for i in range(len(nums)):
     string += str(nums[i]) + ","
 string = string[:-1] + "]"
 print(string)
-print("blah")
