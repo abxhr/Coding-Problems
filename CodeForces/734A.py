@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 n = int(input())
 d = 0
 a = 0

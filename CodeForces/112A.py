@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 str1 = input().lower()
 str2 = input().lower()
 f = 1

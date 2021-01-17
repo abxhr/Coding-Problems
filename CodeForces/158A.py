@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 lst = list(map(int, input().split()))
 n = lst[0] 
 k = lst[1] - 1

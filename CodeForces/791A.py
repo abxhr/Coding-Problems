@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 a, b = map(int, input().split())
 years = 0
 while not(a > b):

@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 x = int(input())
 steps = 0
 while x > 0:

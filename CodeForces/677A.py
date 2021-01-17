@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 n, h = map(int, input().split())
 lst = list(map(int, input().split()))
 rw = 0

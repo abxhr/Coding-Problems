@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 t = int(input())
 
 def Total(lst,a,b):

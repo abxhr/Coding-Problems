@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 import math 
 lst = list(map(int, input().split()))
 n = lst[0]

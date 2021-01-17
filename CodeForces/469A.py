@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 n = int(input())
 p = list(map(int, input().split()))[1:]
 q = list(map(int, input().split()))[1:]

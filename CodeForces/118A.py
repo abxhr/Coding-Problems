@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 s = list(input())
 vowels = ['a', 'e', 'i', 'y', 'o', 'u', 'A', 'E', 'I', 'O', 'U', 'Y']
 str = ""

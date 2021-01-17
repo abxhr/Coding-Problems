@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 n = int(input())
 for i in range(n):
     w = input()

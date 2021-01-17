@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 n = int(input())
 a = list(set(list((input().lower()))))
 a.sort()

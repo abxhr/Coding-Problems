@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 def yes_no():
     n_x = list(map(int, input().split())) 
     x = n_x[1]
