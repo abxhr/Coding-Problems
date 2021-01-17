@@ -1,3 +1,7 @@
+/*
+Author: Abshar Mohammed Aslam, github.com/abxhr
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;

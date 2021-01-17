@@ -1,3 +1,7 @@
+/*
+Author: Abshar Mohammed Aslam, github.com/abxhr
+*/
+
 //a = 97
 //total = 26
 //half = 13
