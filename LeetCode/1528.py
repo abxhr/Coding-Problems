@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 class Solution:
     def restoreString(self, s: str, indices: List[int]) -> str:
         s = list(s)
