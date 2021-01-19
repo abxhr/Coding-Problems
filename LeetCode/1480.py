@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 string = input()
 nums = [int(i) for i in string.strip('[]').split(',')]
 s = 0
