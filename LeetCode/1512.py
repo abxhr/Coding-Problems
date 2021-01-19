@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 class Solution:
     def numIdenticalPairs(self, nums: List[int]) -> int:
         n = 0
