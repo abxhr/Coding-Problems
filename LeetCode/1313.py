@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 class Solution:
     def decompressRLElist(self, nums: List[int]) -> List[int]:
         lst = []
