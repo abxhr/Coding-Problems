@@ -7,7 +7,7 @@
 
 Solutions to coding problems in **[CodeForces](https://codeforces.com/)**
 
-|                           Problem Solution 	                               |                        Problem Statement                      | Difficulty |
+|                           Problem Solution 	                               |                        Problem Statement                      |  Difficulty  |
 |:--------------------------------------------------------------------------:|:-------------------------------------------------------------:|:----------:|
 |[1A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/1A.py)|[Theatre Square](https://codeforces.com/problemset/problem/1/A)|1000|
 |[112A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/112A.py)|[Petya and Strings](https://codeforces.com/problemset/problem/112/A)|800|
@@ -21,9 +21,23 @@ Solutions to coding problems in **[CodeForces](https://codeforces.com/)**
 |[225A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/225A.cpp)|[Dice Tower](https://codeforces.com/contest/225/problem/A)|1100|
 |[228A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/228A.cpp)|[Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A)|800|
 |[231A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/231A.py)|[Team](https://codeforces.com/contest/231/problem/A)|800|
+|[236A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/236A.py)|[Boy or Girl](https://codeforces.com/contest/236/problem/A)|800|
+|[263A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/263A.cpp)|[Beautiful Matrix](https://codeforces.com/contest/263/problem/A)|800|
+|[265A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/265A.cpp)|[Colorful Stones (Simplified Edition)](https://codeforces.com/problemset/problem/265/A)|800|
+|[266A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/266A.cpp)|[Stones on the Table](https://codeforces.com/contest/266/problem/A)|800|
+|[268A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/268A.cpp)|[Games](https://codeforces.com/contest/268/problem/A)|800|
+|[282A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/282A.py)|[Bit++](https://codeforces.com/problemset/problem/282/A)|800|
+|[294A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/294A.cpp)|[Shaass and Oskols](https://codeforces.com/contest/294/problem/A)|800|
+|[318A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/318A.cpp)|[Even Odds](https://codeforces.com/contest/318/problem/A)|900|
+|[339A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/339A.py)|[Helpful Maths](https://codeforces.com/contest/339/problem/A)|800|
+|[344A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/344A.cpp)|[Magnets](https://codeforces.com/contest/344/problem/A)|800|
+|[365A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/365A.cpp)|[Good Number](https://codeforces.com/contest/365/problem/A)|1100|
+|[381A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/381A.cpp)|[Sereja and Dima](https://codeforces.com/contest/381/problem/A)|800|
+|[382A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/382A.cpp)|[Ksenia and Pan Scales](https://codeforces.com/contest/382/problem/A)|1100|
 |[1204A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/1204A.cpp)|[BowWow and the Timetable](https://codeforces.com/contest/1204/problem/A)|1000|
 |[1440A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/1440A.py)|[Buy the String](https://codeforces.com/contest/1440/problem/A)|800|
 |[1438A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/1438A.py)|[Specific Tastes of Andre](https://codeforces.com/problemset/problem/1438/A)|800|
 |[1438B.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/1438B.py)|[Valerii Against Everyone](https://codeforces.com/problemset/problem/1438/B)|1000|
 |[1445A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/1445A.py)|[Array Rearrangment](https://codeforces.com/problemset/problem/1445/A)|800|
 |[1451A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/1451A.cpp)|[Subtract or Divide](https://codeforces.com/contest/1451/problem/A)|800|
+
