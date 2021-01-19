@@ -10,6 +10,7 @@ Solutions to coding problems in **[CodeForces](https://codeforces.com/)**
 |                           Problem Solution 	                               |                        Problem Statement                      |  Difficulty  |
 |:--------------------------------------------------------------------------:|:-------------------------------------------------------------:|:----------:|
 |[1A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/1A.py)|[Theatre Square](https://codeforces.com/problemset/problem/1/A)|1000|
+|[43A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/43A.py)|[Football](https://codeforces.com/contest/43/problem/A)|1000|
 |[112A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/112A.py)|[Petya and Strings](https://codeforces.com/problemset/problem/112/A)|800|
 |[118A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/118A.py)|[String Task](https://codeforces.com/problemset/problem/118/A)|1000|
 |[136A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/136A.cpp)|[Presents](https://codeforces.com/problemset/problem/136/A)|800|
@@ -34,6 +35,16 @@ Solutions to coding problems in **[CodeForces](https://codeforces.com/)**
 |[365A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/365A.cpp)|[Good Number](https://codeforces.com/contest/365/problem/A)|1100|
 |[381A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/381A.cpp)|[Sereja and Dima](https://codeforces.com/contest/381/problem/A)|800|
 |[382A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/382A.cpp)|[Ksenia and Pan Scales](https://codeforces.com/contest/382/problem/A)|1100|
+|[404A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/404A.cpp)|[Valera and X](https://codeforces.com/contest/404/problem/A)|1000|
+|[405A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/405A.cpp)|[Gravity Flip](https://codeforces.com/contest/405/problem/A)|900|
+|[427A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/427A.cpp)|[Police Recruits](https://codeforces.com/contest/427/problem/A)|800|
+|[431A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/431A.cpp)|[Black Square](https://codeforces.com/contest/431/problem/A)|800|
+|[443A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/443A.py)|[Anton and Letters](https://codeforces.com/contest/443/problem/A)|800|
+|[469A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/469A.py)|[I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A)|800|
+|[474A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/474A.cpp)|[Keyboard](https://codeforces.com/contest/474/problem/A)|900|
+|[483A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/483A.cpp)|[Counterexample](https://codeforces.com/contest/483/problem/A)|1100|
+|[486A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/486A.cpp)|[Calculating Function](https://codeforces.com/contest/486/problem/A)|800|
+|[490A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/490A.cpp)|[Team Olympiad](https://codeforces.com/contest/490/problem/A)|800|
 |[1204A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/1204A.cpp)|[BowWow and the Timetable](https://codeforces.com/contest/1204/problem/A)|1000|
 |[1440A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/1440A.py)|[Buy the String](https://codeforces.com/contest/1440/problem/A)|800|
 |[1438A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/1438A.py)|[Specific Tastes of Andre](https://codeforces.com/problemset/problem/1438/A)|800|
