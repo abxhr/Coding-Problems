@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 class Solution:
     def numberOfSteps (self, num: int) -> int:
         c = 0
