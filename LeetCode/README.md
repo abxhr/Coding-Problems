@@ -19,6 +19,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1431.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1431.py)|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|Easy|
 |[1470.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1470.py)|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|Easy|
 |[1480.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1480.py)|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|Easy|
+|[1486.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1486.py)|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|Easy|
 |[1512.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1512.py)|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|Easy|
 |[1528.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1528.py)|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|Easy|
 |[1603.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1603.py)|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|Easy|
