@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 class Solution:
     def numJewelsInStones(self, J: str, S: str) -> int:
         j = list(J)
