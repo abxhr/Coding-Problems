@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 class Solution:
     def createTargetArray(self, nums: List[int], index: List[int]) -> List[int]:
         lst = []
