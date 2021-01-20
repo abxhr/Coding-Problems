@@ -26,4 +26,5 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1603.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1603.py)|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|Easy|
 |[1672.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1672.py)|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|Easy|
 |[1678.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1678.py)|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|Easy|
+|[1684.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1684.py)|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|Easy|
 |[1720.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1720.py)|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|Easy|

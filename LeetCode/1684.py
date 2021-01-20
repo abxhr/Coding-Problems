@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 class Solution:
     def countConsistentStrings(self, allowed: str, words: List[str]) -> int:
         n = 0
