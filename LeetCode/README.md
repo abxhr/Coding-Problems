@@ -14,6 +14,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1108.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1108.py)|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|Easy|
 |[1221.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1221.py)|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|Easy|
 |[1281.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1281.py)|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|Easy|
+|[1295.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1295.py)|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|Easy|
 |[1313.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1313.py)|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|Easy|
 |[1342.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1342.py)|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|Easy|
 |[1365.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1365.py)|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|Easy|
