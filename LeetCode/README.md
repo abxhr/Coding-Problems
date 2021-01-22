@@ -21,6 +21,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1365.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1365.py)|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|Easy|
 |[1389.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1389.py)|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|Easy|
 |[1431.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1431.py)|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|Easy|
+|[1464.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1464.py)|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|Easy|
 |[1470.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1470.py)|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|Easy|
 |[1480.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1480.py)|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|Easy|
 |[1486.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1486.py)|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|Easy|
