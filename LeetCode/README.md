@@ -9,6 +9,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 
 |                           Problem Solution 	                               |                        Problem Statement                      |  Difficulty  |
 |:--------------------------------------------------------------------------:|:-------------------------------------------------------------:|:----------:|
+|[709.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/709.py)|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|Easy|
 |[771.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/771.py)|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|
 |[1108.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1108.py)|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|Easy|
 |[1221.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1221.py)|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|Easy|
