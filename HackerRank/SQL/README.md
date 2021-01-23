@@ -7,3 +7,4 @@
 |[easy5.sql](https://github.com/abxhr/Coding-Problems/blob/main/HackerRank/SQL/easy5.sql)|[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)|Easy|
 |[easy6.sql](https://github.com/abxhr/Coding-Problems/blob/main/HackerRank/SQL/easy6.sql)|[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)|Easy|
 |[easy7.sql](https://github.com/abxhr/Coding-Problems/blob/main/HackerRank/SQL/easy7.sql)|[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)|Easy|
+|[easy8.sql](https://github.com/abxhr/Coding-Problems/blob/main/HackerRank/SQL/easy8.sql)|[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)|Easy|
