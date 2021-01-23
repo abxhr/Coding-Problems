@@ -27,6 +27,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1486.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1486.py)|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|Easy|
 |[1512.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1512.py)|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|Easy|
 |[1528.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1528.py)|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|Easy|
+|[1588.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1588.py)|[Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)|Easy|
 |[1603.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1603.py)|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|Easy|
 |[1614.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1614.py)|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|Easy|
 |[1662.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1662.py)|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|Easy|
