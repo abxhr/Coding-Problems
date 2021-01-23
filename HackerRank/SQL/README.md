@@ -1,0 +1,3 @@
+|                           Problem Solution 	                               |                        Problem Statement                      |  Difficulty  |
+|:--------------------------------------------------------------------------:|:-------------------------------------------------------------:|:----------:|
+|[easy1.py](https://github.com/abxhr/Coding-Problems/blob/main/HackerRank/SQL/easy1.sql)|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|Easy|
