@@ -14,6 +14,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[804.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/804.py)|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|Easy|
 |[832.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/832.py)|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|Easy|
 |[938.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/938.py)|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|Easy|
+|[977.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/977.py)|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|Easy|
 |[1108.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1108.py)|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|Easy|
 |[1179.sql](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1179.sql)|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|Easy|
 |[1221.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1221.py)|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|Easy|
