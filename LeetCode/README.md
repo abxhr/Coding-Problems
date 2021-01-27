@@ -15,6 +15,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[832.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/832.py)|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|Easy|
 |[938.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/938.py)|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|Easy|
 |[977.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/977.py)|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|Easy|
+|[1002.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1002.py)|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|Easy|
 |[1108.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1108.py)|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|Easy|
 |[1179.sql](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1179.sql)|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|Easy|
 |[1207.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1207.py)|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|Easy|
