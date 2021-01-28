@@ -14,6 +14,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[709.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/709.py)|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|Easy|
 |[771.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/771.py)|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|
 |[804.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/804.py)|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|Easy|
+|[824.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/824.py)|[Goat Latin](https://leetcode.com/problems/goat-latin/)|Easy|
 |[832.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/832.py)|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|Easy|
 |[938.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/938.py)|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|Easy|
 |[977.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/977.py)|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|Easy|
