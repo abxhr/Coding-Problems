@@ -32,6 +32,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1342.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1342.py)|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|Easy|
 |[1365.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1365.py)|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|Easy|
 |[1374.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1374.py)|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|Easy|
+|[1380.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1380.py)|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|Easy|
 |[1389.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1389.py)|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|Easy|
 |[1431.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1431.py)|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|Easy|
 |[1446.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1446.py)|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|Easy|
