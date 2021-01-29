@@ -10,6 +10,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |                           Problem Solution 	                               |                        Problem Statement                      |  Difficulty  |
 |:--------------------------------------------------------------------------:|:-------------------------------------------------------------:|:----------:|
 |[1.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1.py)|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|
+|[182.sql](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/182.sql)|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|Easy|
 |[509.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/509.py)|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|Easy|
 |[709.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/709.py)|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|Easy|
 |[771.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/771.py)|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|
