@@ -18,6 +18,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[804.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/804.py)|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|Easy|
 |[824.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/824.py)|[Goat Latin](https://leetcode.com/problems/goat-latin/)|Easy|
 |[832.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/832.py)|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|Easy|
+|[852.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/852.py)|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|Easy|
 |[938.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/938.py)|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|Easy|
 |[977.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/977.py)|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|Easy|
 |[1002.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1002.py)|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|Easy|
