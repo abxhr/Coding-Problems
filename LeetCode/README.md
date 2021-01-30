@@ -13,6 +13,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[182.sql](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/182.sql)|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|Easy|
 |[268.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/268.py)|[Missing Number](https://leetcode.com/problems/missing-number/)|Easy|
 |[509.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/509.py)|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|Easy|
+|[620.sql](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/620.sql)|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|Easy|
 |[709.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/709.py)|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|Easy|
 |[771.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/771.py)|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|
 |[804.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/804.py)|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|Easy|
