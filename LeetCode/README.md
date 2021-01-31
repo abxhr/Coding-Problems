@@ -12,6 +12,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1.py)|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|
 |[182.sql](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/182.sql)|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|Easy|
 |[268.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/268.py)|[Missing Number](https://leetcode.com/problems/missing-number/)|Easy|
+|[496.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/496.py)|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|Easy|
 |[509.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/509.py)|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|Easy|
 |[620.sql](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/620.sql)|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|Easy|
 |[709.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/709.py)|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|Easy|
