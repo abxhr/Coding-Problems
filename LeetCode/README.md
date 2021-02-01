@@ -31,6 +31,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1207.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1207.py)|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|Easy|
 |[1221.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1221.py)|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|Easy|
 |[1252.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1252.py)|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|Easy|
+|[1266.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1266.py)|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|Easy|
 |[1281.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1281.py)|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|Easy|
 |[1295.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1295.py)|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|Easy|
 |[1309.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1309.py)|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)|Easy|
