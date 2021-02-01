@@ -10,6 +10,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |                           Problem Solution 	                               |                        Problem Statement                      |  Difficulty  |
 |:--------------------------------------------------------------------------:|:-------------------------------------------------------------:|:----------:|
 |[1.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1.py)|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|
+|[69.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/69.py)|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|Easy|
 |[182.sql](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/182.sql)|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|Easy|
 |[268.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/268.py)|[Missing Number](https://leetcode.com/problems/missing-number/)|Easy|
 |[496.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/496.py)|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|Easy|
