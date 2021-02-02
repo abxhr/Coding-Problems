@@ -36,6 +36,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1295.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1295.py)|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|Easy|
 |[1309.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1309.py)|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)|Easy|
 |[1313.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1313.py)|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|Easy|
+|[1323.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1323.py)|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|Easy|
 |[1342.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1342.py)|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|Easy|
 |[1365.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1365.py)|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|Easy|
 |[1374.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1374.py)|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|Easy|
