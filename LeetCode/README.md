@@ -27,6 +27,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1002.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1002.py)|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|Easy|
 |[1051.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1051.py)|[Height Checker](https://leetcode.com/problems/height-checker/)|Easy|
 |[1108.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1108.py)|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|Easy|
+|[1160.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1160.py)|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|Easy|
 |[1179.sql](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1179.sql)|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|Easy|
 |[1207.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1207.py)|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|Easy|
 |[1221.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1221.py)|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|Easy|
