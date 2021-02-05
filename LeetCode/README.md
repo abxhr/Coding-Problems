@@ -48,6 +48,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1389.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1389.py)|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|Easy|
 |[1394.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1394.py)|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)|Easy|
 |[1431.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1431.py)|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|Easy|
+|[1436.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1436.py)|[Destination City](https://leetcode.com/problems/destination-city/)|Easy|
 |[1446.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1446.py)|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|Easy|
 |[1450.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1450.py)|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|Easy|
 |[1464.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1464.py)|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|Easy|
