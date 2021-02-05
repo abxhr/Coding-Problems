@@ -15,6 +15,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[268.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/268.py)|[Missing Number](https://leetcode.com/problems/missing-number/)|Easy|
 |[496.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/496.py)|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|Easy|
 |[509.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/509.py)|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|Easy|
+|[595.sql](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/595.sql)|[Big Countries](https://leetcode.com/problems/big-countries/)|Easy|
 |[620.sql](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/620.sql)|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|Easy|
 |[709.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/709.py)|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|Easy|
 |[771.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/771.py)|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|
