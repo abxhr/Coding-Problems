@@ -25,6 +25,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[938.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/938.py)|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|Easy|
 |[977.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/977.py)|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|Easy|
 |[1002.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1002.py)|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|Easy|
+|[1021.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1021.py)|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|Easy|
 |[1051.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1051.py)|[Height Checker](https://leetcode.com/problems/height-checker/)|Easy|
 |[1108.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1108.py)|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|Easy|
 |[1160.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1160.py)|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|Easy|
