@@ -68,4 +68,5 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1688.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1688.py)|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|Easy|
 |[1704.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1704.py)|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|Easy|
 |[1720.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1720.py)|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|Easy|
+|[1725.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1725.py)|[Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)|Easy|
 |[1732.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1732.py)|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|Easy|
