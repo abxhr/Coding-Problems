@@ -38,6 +38,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1266.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1266.py)|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|Easy|
 |[1281.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1281.py)|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|Easy|
 |[1295.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1295.py)|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|Easy|
+|[1304.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1304.py)|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|Easy|
 |[1309.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1309.py)|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)|Easy|
 |[1313.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1313.py)|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|Easy|
 |[1323.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1323.py)|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|Easy|
