@@ -19,7 +19,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[620.sql](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/620.sql)|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|Easy|
 |[627.sql](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/627.sql)|[Swap Salary](https://leetcode.com/problems/swap-salary/)|Easy|
 |[709.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/709.py)|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|Easy|
-|[728.py]https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/728.py)|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|Easy|
+|[728.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/728.py)|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|Easy|
 |[771.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/771.py)|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|
 |[804.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/804.py)|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|Easy|
 |[824.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/824.py)|[Goat Latin](https://leetcode.com/problems/goat-latin/)|Easy|
@@ -74,3 +74,4 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1720.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1720.py)|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|Easy|
 |[1725.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1725.py)|[Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)|Easy|
 |[1732.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1732.py)|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|Easy|
+|[1748.py](https://github.com/abxhr/Coding-Problems/blob/main/LeetCode/1748.py)|[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)|Easy|
