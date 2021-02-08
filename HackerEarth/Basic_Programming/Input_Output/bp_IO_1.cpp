@@ -1,3 +1,5 @@
+// Author: Abshar Mohammed Aslam, github.com/abxhr
+
 #include <iostream>
 
 using namespace std;
