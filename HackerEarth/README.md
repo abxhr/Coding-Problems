@@ -1,7 +1,7 @@
 # HackerEarth 
 
 <p align="center">
-  <img width="450" height="200" src=/assets/HackerEarth.png>
+  <img width="500" height="125" src=/assets/HackerEarth.png>
 </p>
 
 
