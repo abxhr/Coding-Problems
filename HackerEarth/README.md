@@ -16,3 +16,4 @@
 |[bp_IO_5.py](Basic_Programming/Input_Output/bp_IO_5.py)                          |[Anagrams](https://rb.gy/0kc71k)                                          |Very Easy                                 |
 |[bp_IO_6.cpp](Basic_Programming/Input_Output/bp_IO_6.cpp)                        |[Find Product](https://rb.gy/fln4dk)                                      |Very Easy                                 |   
 |[bp_IO_7.cpp](Basic_Programming/Input_Output/bp_IO_7.cpp)                        |[Palindromic String](https://rb.gy/dqubol)                                |Very Easy                                 |
+|[bp_IO_8.cpp](Basic_Programming/Input_Output/bp_IO_8.cpp)                        |[Toggle String](https://rb.gy/bzdxww)                                     |Very Easy                                 |
