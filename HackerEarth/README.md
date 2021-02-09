@@ -15,4 +15,4 @@
 |[bp_IO_4.cpp](Basic_Programming/Input_Output/bp_IO_4.cpp)                        |[Factorial!](https://rb.gy/229zei)                                        |Very Easy                                 |
 |[bp_IO_5.py](Basic_Programming/Input_Output/bp_IO_5.py)                          |[Anagrams](https://rb.gy/0kc71k)                                          |Very Easy                                 |
 |[bp_IO_6.cpp](Basic_Programming/Input_Output/bp_IO_6.cpp)                        |[Find Product](https://rb.gy/fln4dk)                                      |Very Easy                                 |   
-  
+|[bp_IO_7.cpp](Basic_Programming/Input_Output/bp_IO_7.cpp)                        |[Palindromic String](https://rb.gy/dqubol)                                |Very Easy                                 |
