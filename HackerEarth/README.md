@@ -13,4 +13,6 @@
 |[bp_IO_2.cpp](Basic_Programming/Input_Output/bp_IO_2.cpp)                        |[Split houses ](https://rb.gy/lp4zpv)                                     |Very Easy                                 |
 |[bp_IO_3.cpp](Basic_Programming/Input_Output/bp_IO_3.cpp)                        |[Seating Arrangement](https://rb.gy/8bophx)                               |Very Easy                                 |
 |[bp_IO_4.cpp](Basic_Programming/Input_Output/bp_IO_4.cpp)                        |[Factorial!](https://rb.gy/229zei)                                        |Very Easy                                 |
-|[bp_IO_5.py](Basic_Programming/Input_Output/bp_IO_4.py)                          |[Anagrams](https://rb.gy/0kc71k)                                          |Very Easy                                 |
+|[bp_IO_5.py](Basic_Programming/Input_Output/bp_IO_5.py)                          |[Anagrams](https://rb.gy/0kc71k)                                          |Very Easy                                 |
+|[bp_IO_6.cpp](Basic_Programming/Input_Output/bp_IO_6.cpp)                        |[Find Product](https://rb.gy/fln4dk)                                      |Very Easy                                 |   
+  
