@@ -33,6 +33,7 @@ Solutions to coding problems in **[CodeForces](https://codeforces.com/)**
 |[265A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/265A.cpp)|[Colorful Stones (Simplified Edition)](https://codeforces.com/problemset/problem/265/A)|800|
 |[266A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/266A.cpp)|[Stones on the Table](https://codeforces.com/contest/266/problem/A)|800|
 |[268A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/268A.cpp)|[Games](https://codeforces.com/contest/268/problem/A)|800|
+|[281A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/281A.cpp)|[Word Capitalization](https://codeforces.com/problemset/problem/281/A)|800|
 |[282A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/282A.py)|[Bit++](https://codeforces.com/problemset/problem/282/A)|800|
 |[294A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/294A.cpp)|[Shaass and Oskols](https://codeforces.com/contest/294/problem/A)|800|
 |[318A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/318A.cpp)|[Even Odds](https://codeforces.com/contest/318/problem/A)|900|
