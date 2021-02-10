@@ -75,6 +75,7 @@ Solutions to coding problems in **[CodeForces](https://codeforces.com/)**
 |[791A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/791A.py)|[Bear and Big Brother](https://codeforces.com/contest/791/problem/A)|800|
 |[799A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/799A.cpp)|[Carrot Cakes](https://codeforces.com/contest/799/problem/A)|1100|
 |[807A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/807A.cpp)|[Is it rated?](https://codeforces.com/contest/807/problem/A)|900|
+|[977A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/977A.cpp)|[Wrong Subtraction](https://codeforces.com/problemset/problem/977/A)|800|
 |[1204A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/1204A.cpp)|[BowWow and the Timetable](https://codeforces.com/contest/1204/problem/A)|1000|
 |[1440A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/1440A.py)|[Buy the String](https://codeforces.com/contest/1440/problem/A)|800|
 |[1438A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/1438A.py)|[Specific Tastes of Andre](https://codeforces.com/problemset/problem/1438/A)|800|
