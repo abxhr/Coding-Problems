@@ -17,3 +17,4 @@
 |[bp_IO_6.cpp](Basic_Programming/Input_Output/bp_IO_6.cpp)                        |[Find Product](https://rb.gy/fln4dk)                                      |Very Easy                                 |   
 |[bp_IO_7.cpp](Basic_Programming/Input_Output/bp_IO_7.cpp)                        |[Palindromic String](https://rb.gy/dqubol)                                |Very Easy                                 |
 |[bp_IO_8.cpp](Basic_Programming/Input_Output/bp_IO_8.cpp)                        |[Toggle String](https://rb.gy/bzdxww)                                     |Very Easy                                 |
+|[bp_IO_9.cpp](Basic_Programming/Input_Output/bp_IO_9.cpp)                        |[Roy and Profile Picture](https://rb.gy/2ctwhm)                           |Very Easy                         |
