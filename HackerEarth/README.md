@@ -17,4 +17,7 @@
 |[bp_IO_6.cpp](Basic_Programming/Input_Output/bp_IO_6.cpp)                        |[Find Product](https://rb.gy/fln4dk)                                      |Very Easy                                 |   
 |[bp_IO_7.cpp](Basic_Programming/Input_Output/bp_IO_7.cpp)                        |[Palindromic String](https://rb.gy/dqubol)                                |Very Easy                                 |
 |[bp_IO_8.cpp](Basic_Programming/Input_Output/bp_IO_8.cpp)                        |[Toggle String](https://rb.gy/bzdxww)                                     |Very Easy                                 |
-|[bp_IO_9.cpp](Basic_Programming/Input_Output/bp_IO_9.cpp)                        |[Roy and Profile Picture](https://rb.gy/2ctwhm)                           |Very Easy                         |
+|[bp_IO_9.cpp](Basic_Programming/Input_Output/bp_IO_9.cpp)                        |[Roy and Profile Picture](https://rb.gy/2ctwhm)                           |Very Easy                                 |
+|[bp_IO_10.cpp](Basic_Programming/Input_Output/bp_IO_10.cpp)                      |[Count Divisors](https://rb.gy/tcwydg)                                    |Very Easy                                 |
+|[bp_IO_11.cpp](Basic_Programming/Input_Output/bp_IO_11.cpp)                      |[Zoos](https://rb.gy/28i3yw)                                              |Very Easy                                 |
+|[bp_IO_12.py](Basic_Programming/Input_Output/bp_IO_12.py)                        |[VC Pairs](https://rb.gy/y7jkx8)                                          |Easy                                      |
