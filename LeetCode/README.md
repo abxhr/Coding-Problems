@@ -85,3 +85,4 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1725.py](codes/1725.py)                        |[Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)              |Easy                        |
 |[1732.py](codes/1732.py)                        |[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)                                                                      |Easy                        |
 |[1748.py](codes/1748.py)                        |[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)                                                                            |Easy                        |
+|[1768.py)(codes/1768.py)                        |[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                         |Easy|
