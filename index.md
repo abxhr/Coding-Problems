@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Coding Problems
+A compilation of scripts for the solutions of coding problems from various platforms!
 
-You can use the [editor on GitHub](https://github.com/abxhr/Coding-Problems/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="center">
+  <img width="350" height="250" src=/assets/giphy.gif>
+</p>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abxhr/Coding-Problems/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- **[CodeForces](https://github.com/abxhr/Coding-Problems/tree/main/CodeForces)**
+- **[HackerRank](https://github.com/abxhr/Coding-Problems/tree/main/HackerRank)**
+- **[LeetCode](https://github.com/abxhr/Coding-Problems/tree/main/LeetCode)**
+- **[AtCoder](https://github.com/abxhr/Coding-Problems/tree/main/AtCoder)**
+- **[CodeChef](https://github.com/abxhr/Coding-Problems/tree/main/CodeChef)**
+- **[Online Judge](https://github.com/abxhr/Coding-Problems/tree/main/Online%20Judge)**
