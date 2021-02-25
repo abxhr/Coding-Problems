@@ -1,3 +1,5 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
 class Solution:
     def isHappy(self, n: int) -> bool:
         def square(n):
