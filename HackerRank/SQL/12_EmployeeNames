@@ -1,0 +1,2 @@
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+SELECT name FROM Employee ORDER BY name ASC;
