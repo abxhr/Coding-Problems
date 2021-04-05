@@ -18,6 +18,6 @@ class Solution:
         c = 0
         for i in range(n):
             for j in range(m):
-                if lst[i][j]%2 != 0:
+                if lst[i][j] % 2 != 0:
                     c += 1
         return c

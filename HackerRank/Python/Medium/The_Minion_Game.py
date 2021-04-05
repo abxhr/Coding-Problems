@@ -13,7 +13,6 @@ def minion_game(string):
         print("Stuart " + str(sp))
     else:
         print("Draw")
-            
 
 
 if __name__ == '__main__':

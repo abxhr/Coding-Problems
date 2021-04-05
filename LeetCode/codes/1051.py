@@ -5,6 +5,6 @@ class Solution:
         s = sorted(heights)
         c = 0
         for i in range(len(heights)):
-            if s[i]!=heights[i]:
-                c+=1
+            if s[i] != heights[i]:
+                c += 1
         return c

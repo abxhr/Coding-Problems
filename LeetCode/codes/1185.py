@@ -2,6 +2,7 @@
 
 import datetime
 
+
 class Solution:
     def dayOfTheWeek(self, day: int, month: int, year: int) -> str:
         day_date = datetime.date(year, month, day)

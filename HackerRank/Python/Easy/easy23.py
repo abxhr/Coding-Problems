@@ -1,6 +1,6 @@
 def print_rangoli(size):
     letters = "abcdefghijklmnopqrstuvwxyz"
-    total = (2 * n) -1
+    total = (2 * n) - 1
     w = (4 * n) - 3
     lst = []
     for i in range(total):
@@ -11,6 +11,7 @@ def print_rangoli(size):
         print(i)
     for i in lst[1:int(total/2)+1]:
         print(i)
+
 
 if __name__ == '__main__':
     n = int(input())

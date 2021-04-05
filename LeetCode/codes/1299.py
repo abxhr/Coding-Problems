@@ -10,7 +10,7 @@ class Solution:
                 prev = max
                 max = arr[i]
                 arr[i] = prev
-            else:  
+            else:
                 arr[i] = max
         arr[-1] = -1
         return arr

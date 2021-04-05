@@ -2,7 +2,7 @@
 
 class Solution:
     def maximumUnits(self, boxTypes: List[List[int]], truckSize: int) -> int:
-        boxTypes.sort(key = lambda x: x[1], reverse=True)
+        boxTypes.sort(key=lambda x: x[1], reverse=True)
         inTruck = 0
         boxes_in_truck = 0
         for boxes, units in boxTypes:

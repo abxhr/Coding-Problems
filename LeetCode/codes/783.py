@@ -10,6 +10,7 @@
 class Solution:
     def minDiffInBST(self, root: TreeNode) -> int:
         values = []
+
         def dfs(node):
             values.append(node.val)
             if node.left:

@@ -5,7 +5,7 @@ class Solution:
         r_even = []
         r_odd = []
         for i in A:
-            if i%2:
+            if i % 2:
                 r_odd.append(i)
             else:
                 r_even.append(i)

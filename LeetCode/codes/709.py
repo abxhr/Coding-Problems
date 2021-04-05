@@ -1,5 +1,5 @@
 # Author: Abshar Mohammed Aslam, github.com/abxhr
- 
+
 class Solution:
     def toLowerCase(self, str: str) -> str:
         nstr = ''

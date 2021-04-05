@@ -5,7 +5,7 @@ class Solution:
         def square(n):
             sq = 0
             while n > 0:
-                digit = n%10
+                digit = n % 10
                 sq += digit ** 2
                 n = n//10
             return sq

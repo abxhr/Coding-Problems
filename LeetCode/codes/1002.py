@@ -4,7 +4,7 @@ class Solution:
     def commonChars(self, A: List[str]) -> List[str]:
         lsta = list(A[0])
         lstb = list(A[0])
-        for i in range(1,len(A)):
+        for i in range(1, len(A)):
             lsta = lstb
             lstb = []
             for j in A[i]:

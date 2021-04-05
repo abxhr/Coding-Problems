@@ -3,7 +3,7 @@
 class Solution:
     def generateParenthesis(self, n):
         def gen(left, right, ans):
-            if not 0 <= left <= right: 
+            if not 0 <= left <= right:
                 return
             if not right:
                 result.append(ans)

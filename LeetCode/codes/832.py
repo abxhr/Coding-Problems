@@ -8,7 +8,7 @@ class Solution:
                     t = i[j]
                     i[j] = i[len(i)-1-j]
                     i[len(i)-1-j] = t
-            
+
         for i in A:
             for j in range(len(i)):
                 if i[j]:

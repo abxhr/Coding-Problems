@@ -7,7 +7,7 @@ class Solution:
         for i in set(arr):
             c = 1
             for j in range(l):
-                if i==arr[j] and arr[j]!=1001:
+                if i == arr[j] and arr[j] != 1001:
                     c += 1
                     arr[j] = 1001
             lsto.append(c)

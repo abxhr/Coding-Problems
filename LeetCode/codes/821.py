@@ -6,7 +6,7 @@ class Solution:
         distance = len(s) - 1
         for letter in s:
             if letter != c:
-                distance += 1 
+                distance += 1
             else:
                 distance = 0
             ans.append(distance)

@@ -3,7 +3,7 @@ if __name__ == '__main__':
     lst = []
     for i in range(N):
         query = input().split()
-        
+
         if query[0] == "insert":
             e = []
             pos = int(query[1])
