@@ -2,8 +2,8 @@
 
 class Solution:
     def countStudents(self, students: List[int], sandwiches: List[int]) -> int:
-        length = len(students)    
-        cycle = 0	
+        length = len(students)
+        cycle = 0
         while length != cycle:
             if students[0] == sandwiches[0]:
                 students.pop(0)
