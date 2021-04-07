@@ -10,7 +10,7 @@ class Solution:
                 stones = stones[:-2]
             elif x != y:
                 stones = stones[:-2] + [y-x]
-        if len(stones):
+        if stones:
             return stones[0]
         else:
             return 0
