@@ -9,6 +9,7 @@ class Employee:
         self.subordinates = subordinates
 """
 
+
 class Solution:
     def getImportance(self, employees: List['Employee'], id: int) -> int:
         imp_list = {x.id: x for x in employees}
