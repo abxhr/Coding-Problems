@@ -1,4 +1,8 @@
-if root1 is None and root2 is None:
+# Author: Abshar Mohammed Aslam, github.com/abxhr
+
+class Solution:
+    def mergeTrees(self, root1: TreeNode, root2: TreeNode) -> TreeNode:
+        if root1 is None and root2 is None:
             return None
         
         if root1 is None:
