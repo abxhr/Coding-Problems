@@ -12,16 +12,13 @@ class OrderedStream:
             return []
         else:
             ostream = []
-            for i in range(self.lId,len(self.stream)):
+            for i in range(self.lId, len(self.stream)):
                 if self.stream[i] is None:
                     self.lId = i
                     break
                 else:
                     ostream.append(self.stream[i])
             return ostream
-            
-                
-        
 
 
 # Your OrderedStream object will be instantiated and called as such:

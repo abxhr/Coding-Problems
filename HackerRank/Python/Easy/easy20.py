@@ -8,6 +8,7 @@ def wrap(string, max_width):
             str += "\n"
     return str
 
+
 if __name__ == '__main__':
     string, max_width = input(), int(input())
     result = wrap(string, max_width)

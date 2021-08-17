@@ -3,7 +3,7 @@
 class Solution:
     def maxDepth(self, s: str) -> int:
         max = 0
-        chk = 0 
+        chk = 0
         for i in s:
             if i == '(':
                 chk += 1

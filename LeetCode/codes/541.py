@@ -5,11 +5,11 @@ class Solution:
         ans = ""
         i = 0
         while (i < len(s)):
-            if i%(2*k) == 0:
+            if i % (2*k) == 0:
                 sub_str = s[i:i+k]
                 ans += sub_str[::-1]
                 i += k
             else:
                 ans += s[i]
-                i += 1    
+                i += 1
         return ans

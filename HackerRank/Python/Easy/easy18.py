@@ -1,6 +1,7 @@
 if __name__ == '__main__':
     s = input()
-    dict = {"alnum": False, "alpha": False, "digit": False, "lower": False, "upper": False}
+    dict = {"alnum": False, "alpha": False,
+            "digit": False, "lower": False, "upper": False}
     for i in s:
         if (i.isalnum()):
             dict["alnum"] = True

@@ -9,7 +9,7 @@ while(t):
     t -= 1
     s = input()
     p = 0
-    if not(len(s)>=10):
+    if not(len(s) >= 10):
         print("NO")
         continue
     else:
@@ -25,23 +25,23 @@ while(t):
         if (c in small) and (first_c):
             p += 1
             first_c = False
-        
-        if (c in cap) and (second_c) and ((i!=0) and (i!=(len(s)-1))):
+
+        if (c in cap) and (second_c) and ((i != 0) and (i != (len(s)-1))):
             p += 1
             second_c = False
 
-        if (c in dig) and (third_c) and ((i!=0) and (i!=(len(s)-1))):
+        if (c in dig) and (third_c) and ((i != 0) and (i != (len(s)-1))):
             p += 1
             third_c = False
 
-        if (c in spec) and (fourth_c) and ((i!=0) and (i!=(len(s)-1))):
+        if (c in spec) and (fourth_c) and ((i != 0) and (i != (len(s)-1))):
             p += 1
             fourth_c = False
-            
-        if p==5:
+
+        if p == 5:
             break
-    
-    if p!=5:
+
+    if p != 5:
         print("NO")
     else:
         print("YES")

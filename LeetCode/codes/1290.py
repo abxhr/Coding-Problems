@@ -19,4 +19,3 @@ class Solution:
             finalnumber += i * pow(2, p)
             p -= 1
         return finalnumber
-        

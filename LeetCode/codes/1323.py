@@ -1,7 +1,7 @@
 # Author: Abshar Mohammed Aslam, github.com/abxhr
 
 class Solution:
-    def maximum69Number (self, num: int) -> int:
+    def maximum69Number(self, num: int) -> int:
         num = str(num)
         if '6' not in num:
             return int(num)

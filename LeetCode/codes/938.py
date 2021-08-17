@@ -17,7 +17,7 @@ class Solution:
                     search(node.left)
                 if high > node.val:
                     search(node.right)
-        
+
         self.val = 0
         search(root)
         return self.val

@@ -9,7 +9,7 @@ class Solution:
                 count[i] += 1
             else:
                 count[i] = 1
-        chars = sorted(list(set(s))) 
+        chars = sorted(list(set(s)))
         while(count):
             for char in chars:
                 if char in count:

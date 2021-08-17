@@ -1,6 +1,6 @@
 # Author: Abshar Mohammed Aslam, github.com/abxhr
 
-import math 
+import math
 lst = list(map(int, input().split()))
 n = lst[0]
 m = lst[1]
