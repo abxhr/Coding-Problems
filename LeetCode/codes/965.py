@@ -9,8 +9,7 @@
 class Solution:
     def isUnivalTree(self, root: TreeNode) -> bool:
         return self.checker(root, root)
-    
-    
+
     def checker(self, root, prev):
         if root is None:
             return True
@@ -19,5 +18,3 @@ class Solution:
         if root.val == prev.val:
             return left_traversal and right_traversal
         return False
-    
-    
