@@ -15,6 +15,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[9.py](codes/9.py)              |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                                      |Easy      |
 |[12.py](codes/12.py)            |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                                                                                        |Medium    |
 |[13.py](codes/13.py)            |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                                                        |Easy      |
+|[14.py](codes/14.py)            |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                                              |Easy      |
 |[20.py](codes/20.py)            |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                                      |Easy      |
 |[21.py](codes/21.py)            |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                                            |Easy      |
 |[22.py](codes/22.py)            |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                                                |Medium    |
