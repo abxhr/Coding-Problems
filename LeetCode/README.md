@@ -20,6 +20,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[21.py](codes/21.py)            |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                                            |Easy      |
 |[22.py](codes/22.py)            |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                                                |Medium    |
 |[23.py](codes/23.py)            |[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                                                |Hard      |
+|[26.py](codes/26.py)            |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                                  |Easy      |
 |[27.py](codes/27.py)            |[Remove Element](https://leetcode.com/problems/remove-element/)                                                                                            |Easy      |
 |[58.py](codes/58.py)            |[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                                                  |Easy      |
 |[66.py](codes/66.py)            |[Plus One](https://leetcode.com/problems/plus-one/)                                                                                                        |Easy      |
