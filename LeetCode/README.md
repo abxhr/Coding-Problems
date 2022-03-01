@@ -22,6 +22,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[23.py](codes/23.py)            |[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                                                |Hard      |
 |[26.py](codes/26.py)            |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                                  |Easy      |
 |[27.py](codes/27.py)            |[Remove Element](https://leetcode.com/problems/remove-element/)                                                                                            |Easy      |
+|[28.py](codes/28.py)            |[Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                                                                      |Easy      |
 |[35.py](codes/35.py)            |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                            |Easy      |
 |[53.py](codes/53.py)            |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                                        |Easy      |
 |[58.py](codes/58.py)            |[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                                                  |Easy      |
