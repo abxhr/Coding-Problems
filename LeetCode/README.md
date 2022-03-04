@@ -89,6 +89,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[766.py](codes/766.py)          |[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)                                                                                          |Easy      |
 |[771.py](codes/771.py)          |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                                                      |Easy      |
 |[783.py](codes/783.py)          |[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)                                                    |Easy      |
+|[799.py](codes/799.py)          |[Champagne Tower](https://leetcode.com/problems/champagne-tower/)                                                                                          |Medium    |
 |[804.py](codes/804.py)          |[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)                                                                          |Easy      |
 |[806.py](codes/806.py)          |[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)                                                          |Easy      |
 |[824.py](codes/824.py)          |[Goat Latin](https://leetcode.com/problems/goat-latin/)                                                                                                    |Easy      |
