@@ -86,6 +86,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[701.py](codes/701.py)          |[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)                                                        |Medium    |
 |[709.py](codes/709.py)          |[To Lower Case](https://leetcode.com/problems/to-lower-case/)                                                                                              |Easy      |
 |[728.py](codes/728.py)          |[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)                                                                              |Easy      |
+|[740.py](codes/740.py)          |[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)                                                                                          |Medium    |
 |[766.py](codes/766.py)          |[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)                                                                                          |Easy      |
 |[771.py](codes/771.py)          |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                                                      |Easy      |
 |[783.py](codes/783.py)          |[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)                                                    |Easy      |
