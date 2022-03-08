@@ -33,6 +33,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[78.py](codes/78.py)            |[Subsets](https://leetcode.com/problems/subsets/)                                                                                                          |Medium    |
 |[83.py](codes/83.py)            |[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                                    |Easy      |
 |[88.py](codes/88.py)            |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                                    |Easy      |
+|[94.py](codes/94.py)            |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                                              |Easy      |
 |[118.py](codes/118.py)          |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                                       |Easy      |
 |[136.py](codes/136.py)          |[Single Number](https://leetcode.com/problems/single-number/)                                                                                              |Easy      |
 |[141.py](codes/141.py)          |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                      |Easy      |
