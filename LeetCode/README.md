@@ -31,6 +31,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[69.py](codes/69.py)            |[Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                                            |Easy      |
 |[70.py](codes/70.py)            |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                          |Easy      |
 |[78.py](codes/78.py)            |[Subsets](https://leetcode.com/problems/subsets/)                                                                                                          |Medium    |
+|[82.py](codes/82.py)            |[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)                                              |Medium    |
 |[83.py](codes/83.py)            |[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                                    |Easy      |
 |[88.py](codes/88.py)            |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                                    |Easy      |
 |[94.py](codes/94.py)            |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                                              |Easy      |
