@@ -10,6 +10,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |       Problem Solution         |                                                                          Problem Statement                                                                |Difficulty|
 |:------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------:|
 |[1.py](codes/1.py)              |[Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                          |Easy      |
+|[2.py](codes/2.py)              |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                                          |Medium    |
 |[3.py](codes/3.py)              |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                            |Medium    |
 |[7.py](codes/7.py)              |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                                                          |Easy      |
 |[9.py](codes/9.py)              |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                                      |Easy      |
