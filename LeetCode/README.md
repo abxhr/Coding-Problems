@@ -10,6 +10,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |       Problem Solution         |                                                                          Problem Statement                                                                |Difficulty|
 |:------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------:|
 |[1.py](codes/1.py)              |[Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                          |Easy      |
+|[2.py](codes/2.py)              |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                                          |Medium    |
 |[3.py](codes/3.py)              |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                            |Medium    |
 |[7.py](codes/7.py)              |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                                                          |Easy      |
 |[9.py](codes/9.py)              |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                                      |Easy      |
@@ -31,11 +32,15 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[69.py](codes/69.py)            |[Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                                            |Easy      |
 |[70.py](codes/70.py)            |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                          |Easy      |
 |[78.py](codes/78.py)            |[Subsets](https://leetcode.com/problems/subsets/)                                                                                                          |Medium    |
+|[82.py](codes/82.py)            |[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)                                              |Medium    |
 |[83.py](codes/83.py)            |[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                                    |Easy      |
 |[88.py](codes/88.py)            |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                                    |Easy      |
+|[94.py](codes/94.py)            |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                                              |Easy      |
 |[118.py](codes/118.py)          |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                                       |Easy      |
 |[125.py](codes/125.py)          |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                        |Easy      |
 |[136.py](codes/136.py)          |[Single Number](https://leetcode.com/problems/single-number/)                                                                                              |Easy      |
+|[141.py](codes/141.py)          |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                      |Easy      |
+|[144.py](codes/144.py)          |[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)                                                            |Easy      |
 |[169.py](codes/169.py)          |[Majority Element](https://leetcode.com/problems/majority-element/)                                                                                        |Easy      |
 |[175.sql](codes/175.sql)        |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)                                                                                    |Easy      |
 |[176.sql](codes/176.sql)        |[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                                                                              |Easy      |
