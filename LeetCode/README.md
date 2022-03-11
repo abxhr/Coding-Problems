@@ -27,6 +27,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[35.py](codes/35.py)            |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                            |Easy      |
 |[53.py](codes/53.py)            |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                                        |Easy      |
 |[58.py](codes/58.py)            |[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                                                  |Easy      |
+|[61.py](codes/61.py)            |[Rotate List](https://leetcode.com/problems/rotate-list/)                                                                                                  |Medium    |
 |[66.py](codes/66.py)            |[Plus One](https://leetcode.com/problems/plus-one/)                                                                                                        |Easy      |
 |[67.py](codes/67.py)            |[Add Binary](https://leetcode.com/problems/add-binary/)                                                                                                    |Easy      |
 |[69.py](codes/69.py)            |[Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                                            |Easy      |
