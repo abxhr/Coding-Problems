@@ -42,6 +42,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[136.py](codes/136.py)          |[Single Number](https://leetcode.com/problems/single-number/)                                                                                              |Easy      |
 |[141.py](codes/141.py)          |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                      |Easy      |
 |[144.py](codes/144.py)          |[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)                                                            |Easy      |
+|[145.py](codes/145.py)          |[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)                                                          |Easy      |
 |[169.py](codes/169.py)          |[Majority Element](https://leetcode.com/problems/majority-element/)                                                                                        |Easy      |
 |[175.sql](codes/175.sql)        |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)                                                                                    |Easy      |
 |[176.sql](codes/176.sql)        |[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                                                                              |Easy      |
