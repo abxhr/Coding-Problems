@@ -38,6 +38,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[88.py](codes/88.py)            |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                                    |Easy      |
 |[94.py](codes/94.py)            |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                                              |Easy      |
 |[100.py](codes/100.py)          |[Same Tree](https://leetcode.com/problems/same-tree/)                                                                                                      |Easy      |
+|[104.py](codes/104.py)          |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                                |Easy      |
 |[118.py](codes/118.py)          |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                                       |Easy      |
 |[125.py](codes/125.py)          |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                        |Easy      |
 |[136.py](codes/136.py)          |[Single Number](https://leetcode.com/problems/single-number/)                                                                                              |Easy      |
