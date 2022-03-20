@@ -64,6 +64,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[231.py](codes/231.py)          |[Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                                |Easy      |
 |[237.py](codes/237.py)          |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                                                                |Easy      |
 |[258.py](codes/258.py)          |[Add Digits](https://leetcode.com/problems/add-digits/)                                                                                                    |Easy      |
+|[263.py](codes/263.py)          |[Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                                                  |Easy      |
 |[268.py](codes/268.py)          |[Missing Number](https://leetcode.com/problems/missing-number/)                                                                                            |Easy      |
 |[283.py](codes/283.py)          |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                                                  |Easy      |
 |[326.py](codes/326.py)          |[Power of Three](https://leetcode.com/problems/power-of-three/)                                                                                            |Easy      |
