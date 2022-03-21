@@ -71,6 +71,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[338.py](codes/338.py)          |[Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                                              |Medium    |
 |[342.py](codes/342.py)          |[Power of Four](https://leetcode.com/problems/power-of-four/)                                                                                              |Easy      |
 |[344.py](codes/344.py)          |[Reverse String](https://leetcode.com/problems/reverse-string/)                                                                                            |Easy      |
+|[345.py](codes/345.py)          |[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)                                                                    |Easy      |
 |[349.py](codes/349.py)          |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)                                                                    |Easy      |
 |[374.py](codes/374.py)          |[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                                |Easy      |
 |[383.py](codes/383.py)          |[Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                                                  |Easy      |
