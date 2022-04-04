@@ -57,6 +57,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[196.sql](codes/196.sql)        |[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                                                                          |Easy      |
 |[200.py](codes/200.py)          |[Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                                      |Medium    |
 |[202.py](codes/202.py)          |[Happy Number](https://leetcode.com/problems/happy-number/)                                                                                                |Easy      |
+|[203.py](codes/203.py)          |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                                                                  |Easy      |
 |[204.py](codes/204.py)          |[Count Primes](https://leetcode.com/problems/count-primes/)                                                                                                |Easy      |
 |[206.py](codes/206.py)          |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                                  |Easy      |
 |[217.py](codes/217.py)          |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                                    |Easy      |
