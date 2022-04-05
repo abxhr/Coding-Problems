@@ -79,6 +79,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[389.py](codes/389.py)          |[Find the Difference](https://leetcode.com/problems/find-the-difference/)                                                                                  |Easy      |
 |[392.ppy](codes/392.py)         |[Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                            |Easy      |
 |[413.py](codes/413.py)          |[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)                                                                                      |Medium    |
+|[414.py](codes/414.py)          |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)                                                                                |Easy      |
 |[442.py](codes/442.py)          |[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                                                          |Medium    |
 |[461.py](codes/461.py)          |[Hamming Distance](https://leetcode.com/problems/hamming-distance/)                                                                                        |Easy      |
 |[476.py](codes/476.py)          |[Number Complement](https://leetcode.com/problems/number-complement/)                                                                                      |Easy      |
