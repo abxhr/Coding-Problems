@@ -40,6 +40,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[100.py](codes/100.py)          |[Same Tree](https://leetcode.com/problems/same-tree/)                                                                                                      |Easy      |
 |[104.py](codes/104.py)          |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                                |Easy      |
 |[118.py](codes/118.py)          |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                                       |Easy      |
+|[119.py](codes/119.py)          |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                                                                 |Easy      | 
 |[125.py](codes/125.py)          |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                        |Easy      |
 |[136.py](codes/136.py)          |[Single Number](https://leetcode.com/problems/single-number/)                                                                                              |Easy      |
 |[141.py](codes/141.py)          |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                      |Easy      |
