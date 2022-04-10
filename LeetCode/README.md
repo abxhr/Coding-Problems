@@ -64,6 +64,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[219.py](codes/219.py)          |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                                                              |Easy      |
 |[231.py](codes/231.py)          |[Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                                |Easy      |
 |[237.py](codes/237.py)          |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                                                                |Easy      |
+|[242.py](codes/242.py)          |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                                              |Easy      |
 |[258.py](codes/258.py)          |[Add Digits](https://leetcode.com/problems/add-digits/)                                                                                                    |Easy      |
 |[263.py](codes/263.py)          |[Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                                                  |Easy      |
 |[268.py](codes/268.py)          |[Missing Number](https://leetcode.com/problems/missing-number/)                                                                                            |Easy      |
