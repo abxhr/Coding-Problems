@@ -140,6 +140,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1207.py](codes/1207.py)        |[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                                |Easy      |
 |[1221.py](codes/1221.py)        |[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)                                                    |Easy      |
 |[1252.py](codes/1252.py)        |[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)                                                      |Easy      |
+|[1260.py](codes/1260.py)        |[Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)                                                                                              |Easy      |
 |[1266.py](codes/1266.py)        |[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)                                                        |Easy      |
 |[1281.py](codes/1281.py)        |[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)                |Easy      |
 |[1290.py](codes/1290.py)        |[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)                      |Easy      |
