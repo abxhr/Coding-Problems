@@ -84,3 +84,4 @@ Solutions to coding problems in **[CodeForces](https://codeforces.com/)**
 |[1451A.cpp](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/1451A.cpp)|[Subtract or Divide](https://codeforces.com/contest/1451/problem/A)|800|
 |[1692A.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/1692A.py)|[Marathon](https://codeforces.com/contest/1692/problem/A)| |
 |[1692B.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/1692B.py)|[All Distinct](https://codeforces.com/contest/1692/problem/B)| |
+|[1692C.py](https://github.com/abxhr/Coding-Problems/blob/main/CodeForces/1692C.py)|[Where's the Bishop?](https://codeforces.com/contest/1692/problem/C)| |
