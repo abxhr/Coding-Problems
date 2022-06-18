@@ -1,0 +1,12 @@
+|                           Problem Solution 	                               |                        Problem Statement                      |  Difficulty  |
+|:--------------------------------------------------------------------------:|:-------------------------------------------------------------:|:----------:|
+|[easy1.sql](https://github.com/abxhr/Coding-Problems/blob/main/HackerRank/SQL/easy1.sql)|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|Easy|
+|[easy2.sql](https://github.com/abxhr/Coding-Problems/blob/main/HackerRank/SQL/easy2.sql)|[Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)|Easy|
+|[easy3.sql](https://github.com/abxhr/Coding-Problems/blob/main/HackerRank/SQL/easy3.sql)|[Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)|Easy|
+|[easy4.sql](https://github.com/abxhr/Coding-Problems/blob/main/HackerRank/SQL/easy4.sql)|[Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem)|Easy|
+|[easy5.sql](https://github.com/abxhr/Coding-Problems/blob/main/HackerRank/SQL/easy5.sql)|[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)|Easy|
+|[easy6.sql](https://github.com/abxhr/Coding-Problems/blob/main/HackerRank/SQL/easy6.sql)|[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)|Easy|
+|[easy7.sql](https://github.com/abxhr/Coding-Problems/blob/main/HackerRank/SQL/easy7.sql)|[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)|Easy|
+|[easy8.sql](https://github.com/abxhr/Coding-Problems/blob/main/HackerRank/SQL/easy8.sql)|[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)|Easy|
+|[easy9.sql](https://github.com/abxhr/Coding-Problems/blob/main/HackerRank/SQL/easy9.sql)|[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)|Easy|
+|[easy10.sql](https://github.com/abxhr/Coding-Problems/blob/main/HackerRank/SQL/easy10.sql)|[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)|Easy|
