@@ -41,6 +41,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[101.py](codes/101.py)          |[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                                            |Easy      |
 |[104.py](codes/104.py)          |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                                |Easy      |
 |[108.py](codes/108.py)          |[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)                                    |Easy      |
+|[110.py](codes/110.py)          |[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                                                |Easy      | 
 |[118.py](codes/118.py)          |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                                       |Easy      |
 |[119.py](codes/119.py)          |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                                                                 |Easy      | 
 |[125.py](codes/125.py)          |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                        |Easy      |
