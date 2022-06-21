@@ -42,6 +42,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[104.py](codes/104.py)          |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                                |Easy      |
 |[108.py](codes/108.py)          |[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)                                    |Easy      |
 |[110.py](codes/110.py)          |[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                                                |Easy      | 
+|[111.py](codes/111.py)          |[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                                                                |Easy      |
 |[118.py](codes/118.py)          |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                                       |Easy      |
 |[119.py](codes/119.py)          |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                                                                 |Easy      | 
 |[125.py](codes/125.py)          |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                        |Easy      |
@@ -49,7 +50,6 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[141.py](codes/141.py)          |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                      |Easy      |
 |[144.py](codes/144.py)          |[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)                                                            |Easy      |
 |[145.py](codes/145.py)          |[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)                                                          |Easy      |
-|[160.py](codes/160.py)          |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                                                        |Easy      |
 |[169.py](codes/169.py)          |[Majority Element](https://leetcode.com/problems/majority-element/)                                                                                        |Easy      |
 |[175.sql](codes/175.sql)        |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)                                                                                    |Easy      |
 |[176.sql](codes/176.sql)        |[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                                                                              |Easy      |
