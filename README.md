@@ -13,3 +13,14 @@ A compilation of scripts for the solutions of coding problems from various platf
 - **[AtCoder](https://github.com/abxhr/Coding-Problems/tree/main/AtCoder)**
 - **[CodeChef](https://github.com/abxhr/Coding-Problems/tree/main/CodeChef)**
 - **[Online Judge](https://github.com/abxhr/Coding-Problems/tree/main/Online%20Judge)**
+
+## Statistics
+
+- _Total Solved:_ 404
+- _LeetCode:_ 203
+- _CodeForces:_ 77
+- _HackerRank:_ 105
+- _CodeChef:_ 3
+- _AtCoder:_ 2
+- _GeeksforGeeks:_ 1
+- _HackerEarth:_ 13
