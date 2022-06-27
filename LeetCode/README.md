@@ -83,6 +83,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[349.py](codes/349.py)          |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)                                                                    |Easy      |
 |[374.py](codes/374.py)          |[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                                |Easy      |
 |[383.py](codes/383.py)          |[Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                                                  |Easy      |
+|[387.py](codes/387.py)          |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                                                    |Easy      |
 |[389.py](codes/389.py)          |[Find the Difference](https://leetcode.com/problems/find-the-difference/)                                                                                  |Easy      |
 |[392.ppy](codes/392.py)         |[Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                            |Easy      |
 |[413.py](codes/413.py)          |[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)                                                                                      |Medium    |
