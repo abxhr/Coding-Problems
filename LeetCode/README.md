@@ -76,6 +76,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[258.py](codes/258.py)          |[Add Digits](https://leetcode.com/problems/add-digits/)                                                                                                    |Easy      |
 |[263.py](codes/263.py)          |[Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                                                  |Easy      |
 |[268.py](codes/268.py)          |[Missing Number](https://leetcode.com/problems/missing-number/)                                                                                            |Easy      |
+|[278.py](codes/278.py)          |[First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                                                      |Easy      |
 |[283.py](codes/283.py)          |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                                                  |Easy      |
 |[326.py](codes/326.py)          |[Power of Three](https://leetcode.com/problems/power-of-three/)                                                                                            |Easy      |
 |[338.py](codes/338.py)          |[Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                                              |Medium    |
