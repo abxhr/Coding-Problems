@@ -65,6 +65,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[202.py](codes/202.py)          |[Happy Number](https://leetcode.com/problems/happy-number/)                                                                                                |Easy      |
 |[203.py](codes/203.py)          |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                                                                  |Easy      |
 |[204.py](codes/204.py)          |[Count Primes](https://leetcode.com/problems/count-primes/)                                                                                                |Easy      |
+|[205.py](codes/205.py)          |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                                                    |Easy      |
 |[206.py](codes/206.py)          |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                                  |Easy      |
 |[217.py](codes/217.py)          |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                                    |Easy      |
 |[219.py](codes/219.py)          |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                                                              |Easy      |
