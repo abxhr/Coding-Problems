@@ -112,6 +112,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[690.py](codes/690.py)          |[Employee Importance](https://leetcode.com/problems/employee-importance/)                                                                                  |Easy      |
 |[700.py](codes/700.py)          |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)                                                            |Easy      |
 |[701.py](codes/701.py)          |[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)                                                        |Medium    |
+|[704.py](codes/704.py)          |[Binary Search](https://leetcode.com/problems/binary-search/)                                                                                              |Easy      |
 |[709.py](codes/709.py)          |[To Lower Case](https://leetcode.com/problems/to-lower-case/)                                                                                              |Easy      |
 |[728.py](codes/728.py)          |[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)                                                                              |Easy      |
 |[740.py](codes/740.py)          |[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)                                                                                          |Medium    |
