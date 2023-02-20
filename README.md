@@ -16,8 +16,8 @@ A compilation of scripts for the solutions of coding problems from various platf
 
 ## Statistics
 
-- _Total Solved:_ 409
-- _LeetCode:_ 208
+- _Total Solved:_ 410
+- _LeetCode:_ 209
 - _CodeForces:_ 77
 - _HackerRank:_ 105
 - _CodeChef:_ 3

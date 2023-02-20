@@ -78,6 +78,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[268.py](codes/268.py)          |[Missing Number](https://leetcode.com/problems/missing-number/)                                                                                            |Easy      |
 |[278.py](codes/278.py)          |[First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                                                      |Easy      |
 |[283.py](codes/283.py)          |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                                                  |Easy      |
+|[290.py](codes/290.py)          |[Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                                                |Easy      |
 |[326.py](codes/326.py)          |[Power of Three](https://leetcode.com/problems/power-of-three/)                                                                                            |Easy      |
 |[338.py](codes/338.py)          |[Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                                              |Medium    |
 |[342.py](codes/342.py)          |[Power of Four](https://leetcode.com/problems/power-of-four/)                                                                                              |Easy      |
