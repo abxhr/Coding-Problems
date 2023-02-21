@@ -53,6 +53,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[145.py](codes/145.py)          |[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)                                                          |Easy      |
 |[168.py](codes/168.py)          |[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)                                                                        |Easy      |
 |[169.py](codes/169.py)          |[Majority Element](https://leetcode.com/problems/majority-element/)                                                                                        |Easy      |
+|[171.py](codes/171.py)          |[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)                                                                      |Easy      |
 |[175.sql](codes/175.sql)        |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)                                                                                    |Easy      |
 |[176.sql](codes/176.sql)        |[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                                                                              |Easy      |
 |[181.sql](codes/181.sql)        |[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)                                    |Easy      |
