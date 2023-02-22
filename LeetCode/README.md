@@ -46,6 +46,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[112.py](codes/112.py)          |[Path Sum](https://leetcode.com/problems/path-sum/)                                                                                                        |Easy      |
 |[118.py](codes/118.py)          |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                                       |Easy      |
 |[119.py](codes/119.py)          |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                                                                 |Easy      |
+|[121.py](codes/121.py)          |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                          |Easy      |
 |[125.py](codes/125.py)          |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                                        |Easy      |
 |[136.py](codes/136.py)          |[Single Number](https://leetcode.com/problems/single-number/)                                                                                              |Easy      |
 |[141.py](codes/141.py)          |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                      |Easy      |
